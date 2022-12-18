@@ -1,4 +1,4 @@
-# R-analisis-last-assesment-bootcamp
+# R-Analisist using Power Bi-last-assesment-bootcamp
 [View Dashboard](https://app.powerbi.com/links/yU06sSvsmy?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
 
 Aim: Was to clean data , learn more about R studio and how tu call and use the packages, library tidyverse and the use ggplot2 as a part of the last assessment.
