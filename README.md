@@ -3,11 +3,13 @@
 
 Aim: Was to clean data , learn more about R studio and how tu call and use the packages, library tidyverse and the use ggplot2 as a part of the last assessment.
 
-Findings: Found outliers and duplicates in the data of Hollywood movies.
+Findings 1: Found outliers and duplicates in the data of Hollywood movies.
 
-Finding 2: Relatioship between the variables in the data , how many Hollywood movies were produced in a year.
+Finding 2: Relationship between the variables in the data, how many Hollywood movies were produced in a year.
 
-Finding 3: Various visual representations with differents variables and how is their relationship.
+Finding 3: Various visual representations with differents variables and how is their relationship in R.
+
+Finding 4: A clear relationship 
 
 Conclusion: I found R studio as a great tools to use with your data so you can deliver a clean data in order to progress to the to the visualization in Power bi.
 Visual analysis i found that Comedy movies were the most Gnre of having a biggest wordwide gross income.
