@@ -13,7 +13,7 @@ Conclusion: I found R studio as a great tools to use with your data so you can d
 Visual analysis i found that Comedy movies were the most Gnre of having a biggest wordwide gross income.
 The film studio with most movies recorded during the years of 2007-2011 was the Warners Bros.
 
-Troubleshooting: Problem that you came acrosss in the data 
+Troubleshooting: Data in R depending of the type of file like excel or cvs, systems like Mac or Windows sometime tent to change variables in minimo however this could have a different results in your data and in your visualizations like the quantity in variables.
 
 Tools: Power Bi & R studio
 
