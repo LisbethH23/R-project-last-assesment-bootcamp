@@ -14,11 +14,20 @@ Various visual representations with differents variables and how is their relati
 ### Finding 4: 
 A linear relationship between columns Rotten Tomatoes and Leeds Studio.
 
-### Finding 5: 
+### Finding 5: Power BI
+The best average of Rotten Tomatoes by Gnre was Fantasy with the highest score following by the Gnre Animation.
 
+### Finding 6: 
+The maximum number of films produced in a year was in 2010 13 films in the Gnre of Comedy.
 
-### Finding 6: Power BI
-The best average of Rotten Tomatoes by Gnre was Fantasy with the highest score of  
+### Finding 7: 
+The highst audience score of movies was for the movie a Dangerous method drama produced by Indepence studio.
+
+### Finding 8:
+Thes best profitability during the years of 2007-2011 is Independent studios with 14 movies produced.
+
+### Finding 9:
+The Wordwild gross was in the Comedy Gnre during years of 2007-2011.
 
 ### Conclusion : 
 I found R studio as a great tool to use with your data to deliver a clean data in order to progress to the analysis visualization in Power bi. R gives you the option the do to statistics graphs so you can start doing the analysis early, this can be also presented as an extra investigation of your results. The help such a blogs, videos around R are realy easy to understand and easy to be comprehend with a large of community ready to help in case you have some questions when you're processing your data. I particurlaly enjoyed working in R studio and I would continue my preparation in this important statistic tools.
@@ -28,7 +37,7 @@ The film studio with most movies recorded during the years of 2007-2011 was the 
 
 
 ### Troubleshooting# : 
-Data in R depending of the type of file like excel or cvs, systems like Mac or Windows sometime tent to change variables in minimo however this could have a different results in your data and in your visualizations like the quantity in variables.
+Data in R depending of the type of file like excel or cvs, systems like Mac or Windows sometime changes the quantity of variables, this could have a different results in your data and in your visualizations however when your dealing with large data this can be a minimun error. Also R scripts doesn't always keep runing your code so the best is to install R studio in your computer rather that working online in R.
 
 ### Tools# : Power Bi & R studio
 
