@@ -16,6 +16,7 @@ A linear relationship between columns Rotten Tomatoes and Leeds Studio.
 
 ### Finding 5: 
 
+
 ### Finding 6: Power BI
 The best average of Rotten Tomatoes by Gnre was Fantasy with the highest score of  
 
