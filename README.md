@@ -1,9 +1,9 @@
 # R-Analisist using Power Bi-last-assesment-bootcamp
 [View Dashboard](https://app.powerbi.com/groups/me/reports/f8f60563-f22b-4b53-9cf9-d0fff1192a09/ReportSection)
-Aim: Was to clean data , learn more about R studio and how tu call and use the packages, library tidyverse and the use ggplot2 as a part of the last assessment.
+Aim: First clean data ,learn more about R studio and how you enter codes to use the differents packages offered in R, library tidyverse and the use ggplot2. Second use a visualization programme PowerBi in this case the client ask for a dashboard using their brand colours blue, brown and green. 
 
 ### Findings 1: 
-Found outliers and duplicates in the data of Hollywood movies using code to remove them.
+Found outliers and duplicates in the data of Hollywood movies using code in R to remove them.
 
 ### Finding 2: 
 Relationship between the variables in the data, how many Hollywood movies were produced in a year and the best Gnre with the most profitability .
@@ -12,9 +12,11 @@ Relationship between the variables in the data, how many Hollywood movies were p
 Various visual representations with differents variables and how is their relationship in R. A relationship between year and the production of films being the year of 2010 they year with more films released into the public.
 
 ### Finding 4: 
-A linear relationshipo between columns Rotten Tomatoes and Leeds Studio.
+A linear relationship between columns Rotten Tomatoes and Leeds Studio.
 
-### Finding 5: Power BI
+### Finding 5: 
+
+### Finding 6: Power BI
 The best average of Rotten Tomatoes by Gnre was Fantasy with the highest score of  
 
 ### Conclusion : 
