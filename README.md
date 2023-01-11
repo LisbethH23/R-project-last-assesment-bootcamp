@@ -9,7 +9,7 @@ Found outliers and duplicates in the data of Hollywood movies using code in R to
 Relationship between the variables in the data, how many Hollywood movies were produced in a year and the best Gnre with the most profitability .
 
 ### Finding 3: 
-Various visual representations with differents variables and how is their relationship in R. A relationship between year and the production of films being the year of 2010 they year with more films released into the public.
+Various visual representations with differents variables and how is their relationship in R. A relationship between year and the production of films being the year of 2010 with more films released into the public.
 
 ### Finding 4: 
 A linear relationship between columns Rotten Tomatoes and Leeds Studio.
