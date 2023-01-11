@@ -2,12 +2,15 @@
 df<- read.csv("/cloud/project/HollywoodsMostProfitableStories.csv")
 View(df)
 install.packages("tidyverse")
+#check for the dat
 str(df)
+
+#check for missing values
 colSums(is.na(df))
-#na.omit(df)
-#colSums(is.na(df))
-#na.omit(df)
-#colSums(is.na(df))
+#drop missing values
+na.omit(df)
+#check if rows with missing values has been removed
+colSums(is.na(df))
 
 #drop missing values , the last command it worked
 #print(na.omit(df))
@@ -18,11 +21,14 @@ df <- df[complete.cases(df),]
 colSums(is.na(df_clean))              
 #df <- df[rowSums(is.na(df)) ]
 #colSums(is.na(df)) 
+
 #Check for duplicates
 dim(df[duplicated(df$Film),])[1]
-#round off values to 2 places
+
+#round off values to 2 places means only two number in decimals
 df$Profitability <-round(df$Profitability ,digit=2)
 df$Worldwide.Gross <-round(df$Worldwide.Gross ,digit=2)
+
 #View(df)
 dim(df)
 #Check for outliers using a boxplot
@@ -41,20 +47,21 @@ Q3 <- quantile(no_outliers$Worldwide.Gross, .75)
 IQR <- IQR(no_outliers$Worldwide.Gross)
 df1 <- subset(no_outliers, no_outliers$Worldwide.Gross> (Q1 - 1.5*IQR) & no_outliers$Worldwide.Gross< (Q3 + 1.5*IQR))
 dim(df1)
+
 #Summary Statistics/Univariate Analysis:
 summary(df1)
 
 #bivariate analysis
 
-#scatterplot
+#scatterplot changing colours
 ggplot(df1, aes(x=Lead.Studio, y=Rotten.Tomatoes..)) + geom_point(colour="green")+ scale_y_continuous(labels = scales::comma)+coord_cartesian(ylim = c(0, 110))+theme(axis.text.x = element_text(angle = 90))
 
 #bar chart
 ggplot(df1, aes(x=Year)) + geom_bar(fill="blue",colour="green")
-
-ggplot(data=df1, mapping=aes(x=Lead.Studio, y=2005&2011)) + geom_point(size=1)+
+# crrating two geoms with points and line in our data
+ggplot(data=df1, mapping=aes(x=Lead.Studio, y=2007&2011)) + geom_point(size=1)+
 geom_line(colour="red")
-
+#geom point, linear model
 ggplot(df1,aes(Year,Profitability,colour=Genre))+
   geom_point(size=1,aplha=0.5)+
   geom_smooth(method=lm,se=F)+
