@@ -14,10 +14,12 @@ Various visual representations with differents variables and how is their relati
 ### Finding 4: 
 A linear relationshipo between columns Rotten Tomatoes and Leeds Studio.
 
-### Finding 5:
+### Finding 5: Power BI
+The best average of Rotten Tomatoes by Gnre was Fantasy with the highest score of  
 
 ### Conclusion : 
 I found R studio as a great tool to use with your data to deliver a clean data in order to progress to the analysis visualization in Power bi. R gives you the option the do to statistics graphs so you can start doing the analysis early, this can be also presented as an extra investigation of your results. The help such a blogs, videos around R are realy easy to understand and easy to be comprehend with a large of community ready to help in case you have some questions when you're processing your data. I particurlaly enjoyed working in R studio and I would continue my preparation in this important statistic tools.
+PowerBI is one of the best programmes to do your visualization as when it comes to deal with large data.
 Visual analysis was found a correlation that Comedy movies were the most Gnre of having a biggest wordlwide gross income.
 The film studio with most movies recorded during the years of 2007-2011 was the Warners Bros. 
 
