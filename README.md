@@ -1,5 +1,5 @@
 # R-Analisist using Power Bi-last-assesment-bootcamp
-[View Dashboard] (https://app.powerbi.com/groups/me/reports/f8f60563-f22b-4b53-9cf9-d0fff1192a09/ReportSection)
+[View Dashboard](https://app.powerbi.com/groups/me/reports/f8f60563-f22b-4b53-9cf9-d0fff1192a09/ReportSection)
 Aim: Was to clean data , learn more about R studio and how tu call and use the packages, library tidyverse and the use ggplot2 as a part of the last assessment.
 
 Findings 1: Found outliers and duplicates in the data of Hollywood movies.
