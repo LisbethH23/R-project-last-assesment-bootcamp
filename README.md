@@ -1,4 +1,4 @@
-# R-Analisist using Power Bi-last-assesment-bootcamp
+# R-Analysist using Power Bi-last-assesment-bootcamp
 [View Dashboard](https://app.powerbi.com/groups/me/reports/f8f60563-f22b-4b53-9cf9-d0fff1192a09/ReportSection)
 Aim: First clean data ,learn more about R studio and how you enter codes to use the differents packages offered in R, library tidyverse and the use ggplot2. Second use a visualization programme PowerBi in this case the client ask for a dashboard using their brand colours blue, brown and green. 
 
