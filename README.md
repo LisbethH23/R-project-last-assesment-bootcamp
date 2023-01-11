@@ -3,10 +3,10 @@
 Aim: Was to clean data , learn more about R studio and how tu call and use the packages, library tidyverse and the use ggplot2 as a part of the last assessment.
 
 ### Findings 1: 
-Found outliers and duplicates in the data of Hollywood movies.
+Found outliers and duplicates in the data of Hollywood movies using code to remove them.
 
 ### Finding 2: 
-Relationship between the variables in the data, how many Hollywood movies were produced in a year.
+Relationship between the variables in the data, how many Hollywood movies were produced in a year and the best Gnre with the most profitability .
 
 ### Finding 3: 
 Various visual representations with differents variables and how is their relationship in R.
