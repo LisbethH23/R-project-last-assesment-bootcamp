@@ -14,7 +14,8 @@ Various visual representations with differents variables and how is their relati
 ### Finding 4: 
 A linear relationshipo between columns Rotten Tomatoes and Leeds Studio.
 
-### Conclusion# : I found R studio as a great tools to use with your data so you can deliver a clean data in order to progress to the to the visualization in Power bi.
+### Conclusion : 
+I found R studio as a great tools to use with your data so you can deliver a clean data in order to progress to the to the visualization in Power bi.
 Visual analysis i found that Comedy movies were the most Gnre of having a biggest wordwide gross income.
 The film studio with most movies recorded during the years of 2007-2011 was the Warners Bros.
 
